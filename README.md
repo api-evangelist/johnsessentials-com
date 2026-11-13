@@ -1,4 +1,4 @@
-# johnsessentials-com
+# John\'s Essentials
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,150 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-johnsessentials-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://johnsessentials.com/
+John's Essentials is a file-processing platform offering deterministic tools for AI agents and users. It provides a suite of over 130 tools to compress PDFs, add watermarks, extract audio, remove backgrounds, generate QR codes, and more. The service focuses on automating exacting media and document tasks, integrating with workflows, APIs, and various integrations to streamline file handling for developers and enterprises.
+
+**Areas:** File Processing · AI Tools · Automation · Document Management · Media Conversion · Cloud Service
+
+## John\'s Essentials on APIs.io
+
+Everything profiled for John\'s Essentials is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/johnsessentials-com/](https://apis.io/providers/johnsessentials-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [John\'s Essentials Agent API](https://apis.io/apis/johnsessentials-com/johnsessentials-com-agent-api/) — AI agent orchestration (tool calls, workflows, streaming)
+- [John\'s Essentials Authentication API](https://apis.io/apis/johnsessentials-com/johnsessentials-com-authentication-api/) — API key validation probe
+- [John\'s Essentials Files API](https://apis.io/apis/johnsessentials-com/johnsessentials-com-files-api/) — Upload, list, download, and delete files attached to your account
+- [John\'s Essentials MCP API](https://apis.io/apis/johnsessentials-com/johnsessentials-com-mcp-api/) — Model Context Protocol server. Lets every AI client (Claude Desktop, Cursor, ChatGPT, Gemini, n8n) plug in to the full tool catalogue with one paste. Speaks…
+- [John\'s Essentials Memory API](https://apis.io/apis/johnsessentials-com/johnsessentials-com-memory-api/) — Per-user persistent memory anchors and search
+- [John\'s Essentials OpenAI Compatibility API](https://apis.io/apis/johnsessentials-com/johnsessentials-com-openai-compatibility-api/) — Drop-in replacement for OpenAI's chat completions surface. Set your OpenAI SDK's `base_url` to `https://api.johnsessentials.com/v1` and every existing call…
+- [John\'s Essentials Organizations API](https://apis.io/apis/johnsessentials-com/johnsessentials-com-organizations-api/) — Read-only access to the teams (organizations) your API key's owner belongs to — enumerate your orgs and read the current org's roster. Every response is…
+- [John\'s Essentials Status API](https://apis.io/apis/johnsessentials-com/johnsessentials-com-status-api/) — API health and uptime
+- [John\'s Essentials Tools API](https://apis.io/apis/johnsessentials-com/johnsessentials-com-tools-api/) — Tool registry and direct tool execution
+- [John\'s Essentials Webhooks API](https://apis.io/apis/johnsessentials-com/johnsessentials-com-webhooks-api/) — Server-to-server event notifications. We POST a JSON payload to your registered URL when a long-running job completes, when a cost threshold is reached, or…
+- [John\'s Essentials Workflows API](https://apis.io/apis/johnsessentials-com/johnsessentials-com-workflows-api/) — Saved multi-step automations
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Johnsessentials Com Webhooks](https://apis.io/asyncapis/johnsessentials-com/johnsessentials-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [John\'s Essentials Agentic Access](https://apis.io/agentic-access/johnsessentials-com/johnsessentials-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [JobEvent](https://apis.io/schemas/johnsessentials-com/johnsessentials-com-job-event/)
+- [JSONRPCRequest](https://apis.io/schemas/johnsessentials-com/johnsessentials-com-jsonrpcrequest/)
+- [OAIChatRequest](https://apis.io/schemas/johnsessentials-com/johnsessentials-com-oaichat-request/)
+- [OrganizationMemberPublic](https://apis.io/schemas/johnsessentials-com/johnsessentials-com-organization-member-public/)
+- [OrganizationSummary](https://apis.io/schemas/johnsessentials-com/johnsessentials-com-organization-summary/)
+- [Tool](https://apis.io/schemas/johnsessentials-com/johnsessentials-com-tool/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Johnsessentials Com Context](https://apis.io/jsonld/johnsessentials-com/johnsessentials-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [John\'s Essentials API Rules](https://apis.io/rules/johnsessentials-com/johnsessentials-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [John\'s Essentials Authentication](https://apis.io/security/johnsessentials-com/johnsessentials-com-authentication/)
+- [John\'s Essentials Domain Security](https://apis.io/security/johnsessentials-com/johnsessentials-com-domain-security/)
+- [John\'s Essentials Vulnerability Disclosure](https://apis.io/security/johnsessentials-com/johnsessentials-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [John\'s Essentials Plans Pricing](https://apis.io/plans/johnsessentials-com/johnsessentials-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://johnsessentials.com/)
+- [Documentation](https://johnsessentials.com/docs)
+- [Getting started](https://johnsessentials.com/docs/mcp)
+- [API reference](https://johnsessentials.com/api/v1/openapi.yaml)
+- [Pricing](https://johnsessentials.com/pricing)
+- [Sign up](https://johnsessentials.com/register)
+- [Support](https://johnsessentials.com/contact)
+- [Changelog](https://johnsessentials.com/changelog)
+- [Security](https://johnsessentials.com/security)
+- [Terms of service](https://johnsessentials.com/terms)
+- [Privacy policy](https://johnsessentials.com/privacy)
+- [Status](https://johnsessentials.com/status)
+
+## API Evangelist rating
+
+**Kin Score 68.6** — exemplar · rubric 0.27.0 · scored 2026-11-13
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 66.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 50.0 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 73.2 |
+
+**Agent readiness 68.8** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/johnsessentials-com/](https://apis.io/providers/johnsessentials-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for John\'s Essentials: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/johnsessentials-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
